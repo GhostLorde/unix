@@ -17,4 +17,6 @@ while True:
 
 print(msg)
 
-conn.close()
+
+If msg==‘exit’: 
+        Conn.close()
